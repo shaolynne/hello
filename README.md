@@ -24,7 +24,7 @@
    <p> -le sport
    <p> -jeux d'enigme ou de strategie
     
-  <h6>Mes reseaux 
+  <h6><strong>Mes reseaux 
  
  Facebook:
   <p>A <a href="https://www.facebook.com/gregory.balay.9">link</a>.</p>
