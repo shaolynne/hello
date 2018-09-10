@@ -25,6 +25,8 @@
     -jeux d'enigme ou de strategie
     
   <h6>Mes reseaux 
-  
+ 
+ Facebook:
   <p>A <a href="https://www.facebook.com/gregory.balay.9">link</a>.</p>
+ instagram:
   <p>A <a href="https://www.instagram.com/diyu_yao/">link</a>.</p>
