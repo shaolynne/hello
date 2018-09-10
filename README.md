@@ -2,27 +2,27 @@
   <h2> experience professionnel
     
    <p>apprenti en patisserie de 2016 a 2017 
-    prestataire de 2017 a 2018 
+   <p>prestataire de 2017 a 2018 
     
   <h3>parcour scolaire
   
    <p>brevet des college en 2014 
-    seconde techno STD2A en 2014 2015
-    seconde general 2015 2016
+   <p>seconde techno STD2A en 2014 2015
+   <p>seconde general 2015 2016
     
   <h4>mes qualite 
   
    <p>-meticuleux 
-    -passionne
-    -creatif 
-    -discipline
-    -ponctuel
+   <p>-passionne
+   <p>-creatif 
+   <p>-discipline
+   <p>-ponctuel
     
   <h5>Mes centre d'interet 
     
    <p>-les jeux video 
-      -le sport
-      -jeux d'enigme ou de strategie
+   <p> -le sport
+   <p> -jeux d'enigme ou de strategie
     
   <h6>Mes reseaux 
  
