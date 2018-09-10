@@ -1,4 +1,4 @@
-<h1>mes experience 
+<h1>Gregory BALAY 
   <h2> experience professionnel
     
     apprenti en patisserie de 2016 a 2017 
@@ -10,7 +10,7 @@
     seconde techno STD2A en 2014 2015
     seconde general 2015 2016
     
-<h4>mes qualite 
+  <h4>mes qualite 
   
     -meticuleux 
     -passionne
