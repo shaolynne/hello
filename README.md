@@ -21,11 +21,9 @@
   <h5>Mes centre d'interet 
     
     -les jeux video 
-<p>A <a href="  https://www.youtube.com/watch?v=vzHrjOMfHPY">link</a>.</p>
-     
-   
-   
-   -le sport
+<p><img alt="vidéo" src="https://www.youtube.com/watch?v=vzHrjOMfHPY" /></p>
+    
+    -le sport
 <p><img alt="Image" src="https://www.bing.com/images/search?q=basket+image&id=E588CDF94B4590CA5C30D4A03FFB097DE2A8896C&FORM=IQFRBA" /></p> 
 
     -jeux d'enigme ou de strategie
