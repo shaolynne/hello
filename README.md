@@ -11,10 +11,13 @@
     seconde general 2015 2016
     
 <h4>mes qualite 
-  <p>bullet list:
-    zfavds
-    fzevds
-    ezvsdc
-    fevdscx
+  
+    -meticuleux 
+    -passionne
+    -creatif 
+    -discipline
+    -ponctuel
+    
+
   
   
