@@ -9,7 +9,12 @@
     brevet des college en 2014 
     seconde techno STD2A en 2014 2015
     seconde general 2015 2016
+    
 <h4>mes qualite 
-  <hr />zfevzbrfdgb
-  fzevdf vb
-  zfvds vc
+  <p>bullet list:
+    zfavds
+    fzevds
+    ezvsdc
+    fevdscx
+  
+  
