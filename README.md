@@ -10,14 +10,12 @@
   <a href="/Centre d'interet/">centre d'interet</a> |
   <a href="/Mes reseaux/">Mes reseaux</a>
   </nav>
-  </body>
-  </html>
-  <div =/experience professionnel/>
+  <div ="/experience professionnel/">
   
    <p>apprenti en patisserie de 2016 a 2017 
    <p>prestataire de 2017 a 2018 
     
-  <h3><strong>parcour scolaire :</strong>
+  <div ="/parcour scolaire/">
   
    <p>brevet des college en 2014 
    <p>seconde techno STD2A en 2014 2015
