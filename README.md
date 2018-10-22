@@ -12,8 +12,8 @@
   </nav>
   </body>
   </html>
-  <h2><strong>experience professionnel :</strong>
-    
+  <div =/experience professionnel/>
+  
    <p>apprenti en patisserie de 2016 a 2017 
    <p>prestataire de 2017 a 2018 
     
