@@ -8,7 +8,7 @@
   <a href="/Mes qualite/">Mes qualite</a> |
   <a href="/Centre d'interet/">centre d'interet</a> |
   <a href="/Mes reseaux/">Mes reseaux</a>
-  </nav>
+  
   <div ip="/experience professionnelle/">
  
    <h2>experience pro :</h2>
@@ -42,4 +42,5 @@
   <p>A <a href="https://www.facebook.com/gregory.balay.9">link</a>.</p>
    <h3>instagram :</h3>
   <p>A <a href="https://www.instagram.com/diyu_yao/">link</a>.</p>
+    </nav>
    </section>
