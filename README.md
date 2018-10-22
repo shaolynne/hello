@@ -1,4 +1,10 @@
 <h1><strong> GREGORY BALAY </strong> 
+  <nav><nav>
+  <a href="/html/">HTML</a> |
+  <a href="/css/">CSS</a> |
+  <a href="/js/">JavaScript</a> |
+  <a href="/Mes reseaux/">Mes reseaux</a>
+</nav>
   <h2><strong>experience professionnel :</strong>
     
    <p>apprenti en patisserie de 2016 a 2017 
