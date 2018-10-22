@@ -38,8 +38,8 @@
   
   <div ip="/Mes resaux/">
   <h2>Mes reseaux :<h2>
-   <p>Facebook :</p>
+   <h3>Facebook :</h3>
   <p>A <a href="https://www.facebook.com/gregory.balay.9">link</a>.</p>
-   <p>instagram :</p>
+   <h3>instagram :</h3>
   <p>A <a href="https://www.instagram.com/diyu_yao/">link</a>.</p>
    </section>
