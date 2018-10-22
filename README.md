@@ -1,4 +1,6 @@
 <h1><strong> GREGORY BALAY </strong> 
+ 
+ 
   <html>
   <body>
   <nav>
@@ -8,7 +10,7 @@
   <a href="/Centre d'interet/">centre d'interet</a> |
   <a href="/Mes reseaux/">Mes reseaux</a>
   </nav>
-    </body>
+  </body>
   </html>
   <h2><strong>experience professionnel :</strong>
     
