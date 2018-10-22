@@ -11,17 +11,16 @@
   </nav>
   <div ip="/experience professionnelle/">
  
-   <h2>experience pro</h2>
+   <h2>experience pro :</h2>
   
    <p>apprenti en patisserie de 2016 a 2017</p> 
    <p>prestataire de 2017 a 2018</p> 
   
   <div ip="/parcour scolaire/">
-   <h2>parcour scolaire</h2>
+   <h2>parcour scolaire :</h2>
    <p>brevet des college en 2014</p>
    <p>seconde techno STD2A en 2014 2015</p>
    <p>seconde general 2015 2016</p>
-   </section>
    
    <div ip="/Mes qualite/">
   <h2>Mes qualite :</h2> 
